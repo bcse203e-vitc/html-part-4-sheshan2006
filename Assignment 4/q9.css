@@ -24,14 +24,14 @@ body {
 
 
 .save {
-    background-color: #28a745;
+    background-color: #28f745;
 }
 .save:hover {
-    background-color: #218838;
+    background-color: #21cc38;
 }
 
 .cancel {
-    background-color: #dc3545; 
+    background-color: #df3545; 
 }
 .cancel:hover {
     background-color: #c82333;
@@ -51,3 +51,4 @@ body {
 .animated-btn:hover {
     transform: scale(1.1);
 }
+
